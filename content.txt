@@ -30,7 +30,7 @@ Serving size: 100 g
 Energy: 180 kJ
 Carbohydrates: 9.96 g
 Fat: 0.18 g
-Protein: 1.68 g
+Protein: 1	 g
 
 Tags
 
